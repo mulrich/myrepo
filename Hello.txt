@@ -1,5 +1,7 @@
 Hello test
 Second line line
 third line of code to the file..
-4th line of code 
+4th line is edited
 5th line added
+Added 6th line on second branch
+Add 7th line on second branch
